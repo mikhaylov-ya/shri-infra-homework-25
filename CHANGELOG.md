@@ -1,3 +1,17 @@
+## 6
+
+- add docker scripts (Yaroslav Mikhaylov)
+- add issues write (Yaroslav Mikhaylov)
+- Merge pull request #24 from mikhaylov-ya/releases/5 (Yaroslav Mikhaylov)
+- Merge branch 'main' into releases/5 (Yaroslav Mikhaylov)
+- fix tag push (Yaroslav Mikhaylov)
+- fix: get release num from env properly (Yaroslav Mikhaylov)
+- add proper permissions (Yaroslav Mikhaylov)
+- fix tagggg (Yaroslav Mikhaylov)
+- add branch fetching (Yaroslav Mikhaylov)
+- change input desc (Yaroslav Mikhaylov)
+- docs: update changelog for release 5 (github-actions)
+
 ## 5
 
 - fix release login (Yaroslav Mikhaylov)
