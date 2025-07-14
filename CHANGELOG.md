@@ -1,3 +1,9 @@
+## 8
+
+- Merge pull request #29 from mikhaylov-ya/fix-ip (Yaroslav Mikhaylov)
+- Merge branch 'main' into fix-ip (Yaroslav Mikhaylov)
+- fix base node image version (Yaroslav Mikhaylov)
+
 ## 5
 
 - fix release login (Yaroslav Mikhaylov)
