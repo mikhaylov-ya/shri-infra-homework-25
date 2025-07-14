@@ -1,3 +1,14 @@
+## 7
+
+- Merge pull request #27 from mikhaylov-ya/fix-ip (Yaroslav Mikhaylov)
+- fix app ap listening (Yaroslav Mikhaylov)
+- add issue and docker exit (Yaroslav Mikhaylov)
+- fix (Yaroslav Mikhaylov)
+- Merge pull request #26 from mikhaylov-ya/try-hard-production (Yaroslav Mikhaylov)
+- add ma host to known hosts (Yaroslav Mikhaylov)
+- update dockerfile (Yaroslav Mikhaylov)
+- add prod workflow (Yaroslav Mikhaylov)
+
 ## 5
 
 - fix release login (Yaroslav Mikhaylov)
