@@ -1,3 +1,8 @@
+## 12
+
+- Merge pull request #37 from SnezhanaLukk/main (Snezhana Lukkareva)
+- check in readme (SnLukk)
+
 ## 5
 
 - fix release login (Yaroslav Mikhaylov)
